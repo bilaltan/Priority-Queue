@@ -1,1 +1,6 @@
-# Priority-Queue
+## Priority Queue
+
+Data Structures
+
+Priority Queue Project
+
